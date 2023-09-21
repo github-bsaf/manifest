@@ -4,6 +4,6 @@
 
 <default remote="origin" revision="master" sync-j="4"/>
 
-<project name="pkg" path="example"/>
+<project path="pkg" name="example"/>
 
 </manifest>
